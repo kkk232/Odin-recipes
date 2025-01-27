@@ -1,0 +1,42 @@
+.ingredients {
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+
+.intrudaction {
+    color: red;
+    font-size: 25px;
+}
+
+div {
+    background-color: aquamarine;
+}
+
+.head {
+    color: black;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    font-size: 50px;
+}
+
+li {
+    font-size: 20px;
+}
+
+.body {
+    padding: 5px;
+    background-color: #7fffd490;
+}
+
+button {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+ul {
+    width: 250px;
+}
